@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lista de compras</string>
+    <string name="rv_card_Rate" translatable="false">Avaliar</string>
+    <string name="rv_card_Quantity" translatable="false">Quantidade</string>
+    <string name="rv_card_ItemName" translatable="false">Nome</string>
+    <string name="rv_card_TotalCost" translatable="false">Custo total</string>
+    <string name="rv_card_Amt" translatable="false">Valor</string>
+    <string name="add_items_to_Cart" translatable="false">Adicionar itens ao carrinho</string>
+    <string name="add_entrer_item_Name" translatable="false">Nome do Item</string>
+    <string name="add_entrer_item_Quantity" translatable="false">Quantidade de itens</string>
+    <string name="add_entrer_item_Price">Insira o preço do item</string>
+    <string name="bt_cancel">Cancelar</string>
+    <string name="bt_add">adicionar</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Grocerry App</string>
+    <string name="rv_card_Rate" translatable="false">Rate</string>
+    <string name="rv_card_Quantity" translatable="false">Quantity</string>
+    <string name="rv_card_ItemName" translatable="false">Item Name</string>
+    <string name="rv_card_TotalCost" translatable="false">Total Cost</string>
+    <string name="rv_card_Amt" translatable="false">Amt</string>
+    <string name="add_items_to_Cart" translatable="false">Add Items to Cart</string>
+    <string name="add_entrer_item_Name" translatable="false">Entre Item Name</string>
+    <string name="add_entrer_item_Quantity" translatable="false">Entre Item Quantity</string>
+    <string name="add_entrer_item_Price" translatable="false">Entre Item Price</string>
+    <string name="bt_cancel" translatable="false">Cancel</string>
+    <string name="bt_add" translatable="false">Add</string>
+</resources>
